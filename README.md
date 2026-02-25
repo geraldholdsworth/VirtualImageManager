@@ -1,12 +1,4 @@
-Version 2 of Disc Image Manager.<br>
-This is currently only a mock up of the GUI, to try things out.<br>
+# DIM2: Virtual Image Manager
+Introducing DIM2: Virtual Image Manager.<br>
 <br>
-Possible new names for Disc Image Manager 2 (thank you StarDot):<br>
-* GHDIM2
-* Discarium
-* DiscSmith
-* RetroDisc
-* DIM²: Disc Image Maestro (v2)
-* DIFS: Disc Image Filing System
-* DIMSUM: Disc Image Maintenance, Storage, and Utilities Manager
-* DiskImageMan2
+This new version of Disc Image Manager will feature a new look to the GUI, and will have a separate binary for running in the console/Terminal/command line.<br>
